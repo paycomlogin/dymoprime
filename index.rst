@@ -28,7 +28,7 @@ Where do I register my device? - Dymo
 
 
 
-To register your `Dymo Printer <https://dyp.redircoms.com>`_, visit the official Dymo registration and setup page. Registration ensures you receive product updates, warranty support, and access to the latest software. You can get started at `Dymo Printer <https://dyp.redircoms.com>`_.
+To register your Dymo Printer, visit the official Dymo registration and setup page. Registration ensures you receive product updates, warranty support, and access to the latest software. You can get started at `Dymo Printer <https://dyp.redircoms.com>`_.
 
 How to Register Your Dymo Device
 --------------------------------
